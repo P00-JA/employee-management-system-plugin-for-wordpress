@@ -1,0 +1,227 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: custom-plugin\n"
+"POT-Creation-Date: 2024-04-19 17:37+0530\n"
+"PO-Revision-Date: 2024-04-19 17:45+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _e;__;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: custom-plugin.php:28
+msgid "Employee Management System|Employee Management System Menu"
+msgstr ""
+"Sistema di gestione dei dipendenti|Menu del sistema di gestione dei "
+"dipendenti"
+
+#: custom-plugin.php:29
+msgid "Employee Management System"
+msgstr "Sistema di gestione dei dipendenti"
+
+#: custom-plugin.php:40 custom-plugin.php:41
+#, fuzzy
+#| msgid "Employee Form"
+msgid "Add Employee"
+msgstr "Modulo per dipendenti"
+
+#: custom-plugin.php:48 custom-plugin.php:49
+#, fuzzy
+#| msgid "Employee Form"
+msgid "List Employee"
+msgstr "Modulo per dipendenti"
+
+#: custom-plugin.php:93
+msgid "Home"
+msgstr ""
+
+#: custom-plugin.php:100 pages/list-employee.php:74
+msgid "View"
+msgstr ""
+
+#: pages/add-employee.php:40 pages/list-employee.php:8
+msgid "Nonce verification failed!"
+msgstr "Verifica Nonce fallita!"
+
+#: pages/add-employee.php:54
+#, php-format
+msgid "%s is required"
+msgstr ""
+
+#: pages/add-employee.php:62
+#, php-format
+msgid "%s must be at least %d characters"
+msgstr ""
+
+#: pages/add-employee.php:68
+#, php-format
+msgid "%s should not be more than %d characters"
+msgstr ""
+
+#: pages/add-employee.php:74
+msgid "Invalid Email"
+msgstr ""
+
+#: pages/add-employee.php:84
+msgid "Email already exists"
+msgstr "Email già esistente"
+
+#: pages/add-employee.php:131
+msgid "Employee Details Updated Successfully"
+msgstr "Dettagli dei dipendenti aggiornati correttamente"
+
+#: pages/add-employee.php:148
+#, php-format
+msgid "Employee with ID %d successfully inserted"
+msgstr ""
+
+#: pages/add-employee.php:151
+msgid "Failed to save the record"
+msgstr "Impossibile salvare il record"
+
+#: pages/add-employee.php:168
+msgid "EMPLOYEE DETAILS"
+msgstr "DATI DEI DIPENDENTI"
+
+#: pages/add-employee.php:170
+msgid "EDIT EMPLOYEE"
+msgstr "MODIFICA DIPENDENTE"
+
+#: pages/add-employee.php:172
+msgid "ADD EMPLOYEE"
+msgstr "AGGIUNGI DIPENDENTE"
+
+#: pages/add-employee.php:179
+msgid "Employee Form"
+msgstr "Modulo per dipendenti"
+
+#: pages/add-employee.php:208
+msgid "First Name:"
+msgstr "Nome di battesimo:"
+
+#: pages/add-employee.php:213
+msgid "Enter First Name"
+msgstr "Inserisci il nome"
+
+#: pages/add-employee.php:222
+msgid "Last Name:"
+msgstr "Cognome:"
+
+#: pages/add-employee.php:227
+msgid "Enter Last Name"
+msgstr "Inserisci il cognome"
+
+#: pages/add-employee.php:236
+msgid "Email :"
+msgstr "E-mail :"
+
+#: pages/add-employee.php:241
+msgid "Enter Email"
+msgstr "Inserisci l’email"
+
+#: pages/add-employee.php:248
+msgid "Phone:"
+msgstr "Numero di telefono:"
+
+#: pages/add-employee.php:253
+msgid "Enter Phone Number"
+msgstr "Inserisci il numero di telefono"
+
+#: pages/add-employee.php:260
+msgid "Gender:"
+msgstr "Gente:"
+
+#: pages/add-employee.php:264
+msgid "Select gender"
+msgstr "Selezionare genere"
+
+#: pages/add-employee.php:267
+msgid "Male"
+msgstr "Maschio"
+
+#: pages/add-employee.php:270
+msgid "Female"
+msgstr "Femmina"
+
+#: pages/add-employee.php:273
+msgid "Other"
+msgstr "Altro genere"
+
+#: pages/add-employee.php:277
+msgid "Designation:"
+msgstr "Designazione:"
+
+#: pages/add-employee.php:282 pages/list-employee.php:50
+msgid "Designation"
+msgstr "Designazione"
+
+#: pages/add-employee.php:293 pages/list-employee.php:68
+msgid "Edit"
+msgstr "Modificare"
+
+#: pages/add-employee.php:297
+msgid "Submit"
+msgstr "Invia"
+
+#: pages/list-employee.php:16
+msgid "Employee Deleted Successfully"
+msgstr "Dipendente eliminato con successo"
+
+#: pages/list-employee.php:23
+#, fuzzy
+#| msgid "Employee Form"
+msgid "Employees List"
+msgstr "Modulo per dipendenti"
+
+#: pages/list-employee.php:29
+#, fuzzy
+#| msgid "Employee Form"
+msgid "Employee-List"
+msgstr "Modulo per dipendenti"
+
+#: pages/list-employee.php:44
+msgid "ID"
+msgstr ""
+
+#: pages/list-employee.php:45
+msgid "First Name"
+msgstr "Nome di battesimo"
+
+#: pages/list-employee.php:46
+msgid "Last Name"
+msgstr "Cognome"
+
+#: pages/list-employee.php:47
+msgid "Email"
+msgstr "E-mail "
+
+#: pages/list-employee.php:48
+msgid "Phone"
+msgstr "Numero di telefono"
+
+#: pages/list-employee.php:49
+msgid "Gender"
+msgstr "Gente"
+
+#: pages/list-employee.php:51
+msgid "Action"
+msgstr ""
+
+#: pages/list-employee.php:73
+msgid "Are you sure you want to delete?"
+msgstr "Sei sicuro di voler eliminare?"
+
+#: pages/list-employee.php:73
+msgid "Delete"
+msgstr "Eliminare"
+
+#: pages/list-employee.php:80
+#, fuzzy
+#| msgid "Employee Form"
+msgid "No Employee Data"
+msgstr "Modulo per dipendenti"

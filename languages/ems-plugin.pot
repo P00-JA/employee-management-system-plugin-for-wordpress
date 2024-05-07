@@ -1,0 +1,239 @@
+# Copyright (C) 2024 Pooja M P
+# This file is distributed under the same license as the Employee Management System plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Employee Management System 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/custom-plugin\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-04-22T05:20:40+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: ems-plugin\n"
+
+#. Plugin Name of the plugin
+#: custom-plugin.php
+#: custom-plugin.php:29
+msgid "Employee Management System"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: custom-plugin.php
+msgid "https://example.com/employee-management-system"
+msgstr ""
+
+#. Description of the plugin
+#: custom-plugin.php
+msgid "This is a Employee management CRUD operation plugin"
+msgstr ""
+
+#. Author of the plugin
+#: custom-plugin.php
+msgid "Pooja M P"
+msgstr ""
+
+#. Author URI of the plugin
+#: custom-plugin.php
+msgid "https://example.com"
+msgstr ""
+
+#: custom-plugin.php:28
+msgid "Employee Management System|Employee Management System Menu"
+msgstr ""
+
+#: custom-plugin.php:40
+#: custom-plugin.php:41
+msgid "Add Employee"
+msgstr ""
+
+#: custom-plugin.php:48
+#: custom-plugin.php:49
+msgid "List Employee"
+msgstr ""
+
+#: custom-plugin.php:93
+msgid "Home"
+msgstr ""
+
+#: custom-plugin.php:100
+#: pages/list-employee.php:74
+msgid "View"
+msgstr ""
+
+#: pages/add-employee.php:40
+#: pages/list-employee.php:8
+msgid "Nonce verification failed!"
+msgstr ""
+
+#: pages/add-employee.php:54
+msgid "%s is required"
+msgstr ""
+
+#: pages/add-employee.php:62
+msgid "%s must be at least %d characters"
+msgstr ""
+
+#: pages/add-employee.php:68
+msgid "%s should not be more than %d characters"
+msgstr ""
+
+#: pages/add-employee.php:74
+msgid "Invalid Email"
+msgstr ""
+
+#: pages/add-employee.php:84
+msgid "Email already exists"
+msgstr ""
+
+#: pages/add-employee.php:131
+msgid "Employee Details Updated Successfully"
+msgstr ""
+
+#: pages/add-employee.php:148
+msgid "Employee with ID %d successfully inserted"
+msgstr ""
+
+#: pages/add-employee.php:151
+msgid "Failed to save the record"
+msgstr ""
+
+#: pages/add-employee.php:168
+msgid "EMPLOYEE DETAILS"
+msgstr ""
+
+#: pages/add-employee.php:170
+msgid "EDIT EMPLOYEE"
+msgstr ""
+
+#: pages/add-employee.php:172
+msgid "ADD EMPLOYEE"
+msgstr ""
+
+#: pages/add-employee.php:179
+msgid "Employee Form"
+msgstr ""
+
+#: pages/add-employee.php:208
+msgid "First Name:"
+msgstr ""
+
+#: pages/add-employee.php:213
+msgid "Enter First Name"
+msgstr ""
+
+#: pages/add-employee.php:222
+msgid "Last Name:"
+msgstr ""
+
+#: pages/add-employee.php:227
+msgid "Enter Last Name"
+msgstr ""
+
+#: pages/add-employee.php:236
+msgid "Email :"
+msgstr ""
+
+#: pages/add-employee.php:241
+msgid "Enter Email"
+msgstr ""
+
+#: pages/add-employee.php:248
+msgid "Phone:"
+msgstr ""
+
+#: pages/add-employee.php:253
+msgid "Enter Phone Number"
+msgstr ""
+
+#: pages/add-employee.php:260
+msgid "Gender:"
+msgstr ""
+
+#: pages/add-employee.php:264
+msgid "Select gender"
+msgstr ""
+
+#: pages/add-employee.php:267
+msgid "Male"
+msgstr ""
+
+#: pages/add-employee.php:270
+msgid "Female"
+msgstr ""
+
+#: pages/add-employee.php:273
+msgid "Other"
+msgstr ""
+
+#: pages/add-employee.php:277
+msgid "Designation:"
+msgstr ""
+
+#: pages/add-employee.php:282
+#: pages/list-employee.php:50
+msgid "Designation"
+msgstr ""
+
+#: pages/add-employee.php:293
+#: pages/list-employee.php:68
+msgid "Edit"
+msgstr ""
+
+#: pages/add-employee.php:297
+msgid "Submit"
+msgstr ""
+
+#: pages/list-employee.php:16
+msgid "Employee Deleted Successfully"
+msgstr ""
+
+#: pages/list-employee.php:23
+msgid "Employees List"
+msgstr ""
+
+#: pages/list-employee.php:29
+msgid "Employee-List"
+msgstr ""
+
+#: pages/list-employee.php:44
+msgid "ID"
+msgstr ""
+
+#: pages/list-employee.php:45
+msgid "First Name"
+msgstr ""
+
+#: pages/list-employee.php:46
+msgid "Last Name"
+msgstr ""
+
+#: pages/list-employee.php:47
+msgid "Email"
+msgstr ""
+
+#: pages/list-employee.php:48
+msgid "Phone"
+msgstr ""
+
+#: pages/list-employee.php:49
+msgid "Gender"
+msgstr ""
+
+#: pages/list-employee.php:51
+msgid "Action"
+msgstr ""
+
+#: pages/list-employee.php:73
+msgid "Are you sure you want to delete?"
+msgstr ""
+
+#: pages/list-employee.php:73
+msgid "Delete"
+msgstr ""
+
+#: pages/list-employee.php:80
+msgid "No Employee Data"
+msgstr ""
